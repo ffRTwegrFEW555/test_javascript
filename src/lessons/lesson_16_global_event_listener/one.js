@@ -3,7 +3,7 @@
 
 //
 function sayHi() {
-    alert("hi!");
-}
+ alert("hi!");
+ }
 
 addEventListener("load", sayHi());
